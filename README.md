@@ -1,6 +1,11 @@
 # PAPER
 
-TASK TODAY
-CLEAN
-EDA
-RUN MODELS - XGboost GLM as reference 
+TASK 3rd July 2020
+
+
+* CLEAN
+* EDA
+* RUN MODELS - XGboost GLM as reference 
+
+
+
