@@ -1,33 +1,14 @@
-# PAPER
-
-TASK 3rd July 2020
+### Discover Discriminatory Bias in High Accuracy Models Embedded in Machine Learning Algorithms
 
 
-* CLEAN
-* EDA
-* RUN MODELS - XGboost GLM as reference 
+Jianing Zhang and Vibhu Verma
+Department of Decision Sciences
+The George Washington University, Washington, DC 20052, USA avecsally@gwu.edu; vibhuverma@gwmail.gwu.edu
 
 
+#### Abstract. For all the excitement about Machine Learning Algorithms, there are serious impediments to its widespread adoption. Accuracy is not the only criteria in measuring the model performance, in real life, current model assessment techniques, like cross-validation or receiver op- erator characteristic (ROC) and lift curves, simply don’t tell us about all the nasty things that can happen such as Opaqueness, Social discrimi- nation etc. within the models. And that’s why model debugging, the art and science of understanding and fixing problems in Machine Learning models, is so critical to the future of Machine Learning. Without being able to troubleshoot models when they under perform or misbehave, or- ganizations simply won’t be able to adopt and deploy the algorithm for good and at scale. Inspired by this, we want to challenge the models that have very high accuracy, conduct model debugging and discrimination testing to discover the hidden inaccuracy. The results bring up the con- cern of how a seemingly reliable model can present bias that would be damaging if actually deployed in the future . . .
 
 
-#### Links:
+Keywords: XGBoost, Model Debugging, Discrimination Testing
 
-
-Google Doc: 
-
-https://docs.google.com/document/d/10UjQ26lgJwq0WT0EuCAN1yy_ytN89dZcGq8MEuLVWDA/edit?usp=sharing
-
-
-Overleaf Latax:
-
-https://cn.overleaf.com/1859492342zdpzhvrqfjpk
-
-
-
-#### GLM vs GBM
-
-https://towardsdatascience.com/from-glm-to-gbm-5ff7dbdd7e2f#:~:text=The%20Difference%20Between%20GBM%20and%20GLM%3A%20A%20Scenario%20Analyses&text=One%20of%20the%20most%20important,that%20they%20have%20different%20baselines%3A&text=GBM%20and%20Shapley%20value%20baseline,variables%20are%20equal%20to%200.
-
-
-#### References 
 
